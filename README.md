@@ -16,7 +16,7 @@ Message Me 👉 ✉️ **+91 8972239462** For Collaboration/Project or Anything 
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
- [![Sukalpa Manna Instagram](https://img.shields.io/badge/Instagram-Sukalpa_%20Manna.7-pink?logo=instagram&logoColor=white)](https://www.instagram.com/sukalpa_manna.7/) [![Sukalpa Manna Facebook](https://img.shields.io/badge/Facebook-Sukalpa%20Manna-blue?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074382331409) [![Sukalpa Manna LinkedIn](https://img.shields.io/badge/Twitter-Sukalpa%20Manna-lightblue?logo=twitter&logoColor=white)](https://x.com/SukalpaM76186)
+ [![Sukalpa_Manna.7 Instagram](https://img.shields.io/badge/Instagram-Sukalpa_%20Manna.7-pink?logo=instagram&logoColor=white)](https://www.instagram.com/sukalpa_manna.7/) [![Sukalpa Manna Facebook](https://img.shields.io/badge/Facebook-Sukalpa%20Manna-blue?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074382331409) [![Sukalpa Manna LinkedIn](https://img.shields.io/badge/Twitter-Sukalpa%20Manna-lightblue?logo=twitter&logoColor=white)](https://x.com/SukalpaM76186)
 
 [![](https://visitcount.itsvg.in/api?id=protech-sukalpa-7&icon=1&color=4)](https://visitcount.itsvg.in)
 
