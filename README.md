@@ -16,9 +16,10 @@ Message Me 👉 ✉️ **+91 8972239462** For Collaboration/Project or Anything 
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
- [![Sukalpa Manna Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/sukalpa_manna.7/) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag)
+ [![Sukalpa Manna Instagram](https://img.shields.io/badge/Instagram-Sukalpa_%20Manna.7-pink?logo=instagram&logoColor=white)](https://www.instagram.com/sukalpa_manna.7/) [![Sukalpa Manna Facebook](https://img.shields.io/badge/Facebook-Sukalpa%20Manna-blue?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074382331409) [![Sukalpa Manna LinkedIn](https://img.shields.io/badge/Twitter-Sukalpa%20Manna-lightblue?logo=twitter&logoColor=white)](https://x.com/SukalpaM76186)
 
-[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=protech-sukalpa-7&icon=1&color=4)](https://visitcount.itsvg.in)
+
 
 <!-- Snake Game Repo View -->
 
@@ -27,7 +28,8 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=protech-sukalpa-7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 # 💻 Tech Stack:
