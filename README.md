@@ -10,7 +10,7 @@ Message Me 👉 ✉️ **+91 8972239462** For Collaboration/Project or Anything 
 - 💬 **Ask me about:** ml model
 - 📫 **How to reach me:** mannasukalpa@gmail.com
 - 😄 **Pronouns:** Sukalpa or Anghsu
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:**I believe every problem can be solved with the right algorithm and enough RAM.
 
 ## 🔗 I am a Content Creator. 😊😊
 
