@@ -12,7 +12,7 @@ Message Me 👉 ✉️ **+91 8972239462** For Collaboration/Project or Anything 
 - 😄 **Pronouns:** Sukalpa or Anghsu
 - ⚡ **Fun fact:**I believe every problem can be solved with the right algorithm and enough RAM.
 
-## 🔗 I am a AI trainee. 😊😊
+## 🔗 I am an AI trainee. 😊😊
 
 Stay updated with the latest projects and following on Instagram, Facebook and Twitter.
 
