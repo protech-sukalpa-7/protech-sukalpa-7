@@ -23,9 +23,9 @@ Stay updated with the latest projects and following on Instagram, Facebook and T
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/protech-sukalpa-7/protech-sukalpa-7/output/github-snake-dark.svg" width="100%"/>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=protech-sukalpa-7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
