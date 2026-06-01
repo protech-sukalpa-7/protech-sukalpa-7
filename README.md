@@ -23,7 +23,7 @@ Stay updated with the latest projects and following on Instagram, Facebook and T
 
 <!-- Snake Game Repo View -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/protech-sukalpa-7/protech-sukalpa-7/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/protech-sukalpa-7/protech-sukalpa-7/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </p>
 
 
