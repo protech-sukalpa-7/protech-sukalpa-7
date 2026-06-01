@@ -22,10 +22,10 @@ Stay updated with the latest projects and following on Instagram, Facebook and T
 
 
 <!-- Snake Game Repo View -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/protech-sukalpa-7/protech-sukalpa-7/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=protech-sukalpa-7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
